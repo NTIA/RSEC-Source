@@ -1,5 +1,5 @@
 # RSEC-Source
-Two versions of Radar Spectrum Engineering Criteria (RSEC) are availible for download
+Use RSEC_Main.mlapp in MATLAB developer version 2018a or later with App Designer. Develped on Windows 10 OS.
 
 “The United States Department of Commerce (DOC) GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. 
 DOC has relinquished control of the information and no longer has responsibility to protect the integrity, confidentiality, 
